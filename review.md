@@ -1,0 +1,5 @@
+- To rename the current (local) branch:
+- To rename a different (local) branch:
+- To delete the `old-name` remote branch and push the `new-name` local branch:
+- fetch all branches from remote:
+- want to create a new remote branch from current local one:...... . If you would also like to set that remote branch as upstream for the current one, use the following instead:......
